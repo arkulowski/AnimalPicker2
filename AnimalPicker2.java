@@ -16,7 +16,16 @@ public class AnimalPicker2 {
          // Read user input
          animalChoice = scanner.nextLine();
 
+           // Switch statement to print out ASCII art based on user choice
+           switch (animalChoice) {
+            case "dog":
+                System.out.println(" ^..^      /\n/_/\\_____/\n   /\\   /\\\n  /  \\ /  \\   ");
+                validInput = true; // set valid input to true to exit the loop if picked
+                break;
+
+
 
      }
    }
+}
 }
