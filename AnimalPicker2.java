@@ -30,12 +30,11 @@ public class AnimalPicker2 {
                 System.out.println(" __v_\n(____\\/{ ");
                 validInput = true;
                 break;
+                default:
+                System.out.println("Invalid input. Please choose dog, cat, or fish.");
+                // Invalid prompt
 
-
-
-
-
-     }
-   }
-}
+        }
+      }
+    }
 }
