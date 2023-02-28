@@ -26,6 +26,11 @@ public class AnimalPicker2 {
                 System.out.println(" /\\_/\\\n( o.o )\n > ^ <");
                 validInput = true;
                 break;
+                case "fish":
+                System.out.println(" __v_\n(____\\/{ ");
+                validInput = true;
+                break;
+
 
 
 
