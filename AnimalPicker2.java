@@ -22,6 +22,11 @@ public class AnimalPicker2 {
                 System.out.println(" ^..^      /\n/_/\\_____/\n   /\\   /\\\n  /  \\ /  \\   ");
                 validInput = true; // set valid input to true to exit the loop if picked
                 break;
+                case "cat":
+                System.out.println(" /\\_/\\\n( o.o )\n > ^ <");
+                validInput = true;
+                break;
+
 
 
 
